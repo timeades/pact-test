@@ -29,17 +29,16 @@
   },
   "homepage": "https://github.com/rafaelaazevedo/tau-pact-nodejs-course#readme",
   "devDependencies": {
-    "@pact-foundation/pact": "^9.9.5",
-    "axios": "^0.19.0",
+    "@pact-foundation/pact": "^9.18.1",
+    "axios": "^1.6.7",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "eslint": "^6.8.0",
     "express": "^4.17.1",
-    "jest": "^25.1.0",
+    "jest": "^29.7.0",
     "superagent": "^5.2.2"
   },
- 
   "jest": {
     "testEnvironment": "node"
   }
- }
+}
